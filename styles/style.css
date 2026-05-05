@@ -225,7 +225,7 @@ header {
   } 
 
   .navbar li {
-    width: 100%;
+    flex:1;
   }
 
   .articles-container {
@@ -235,6 +235,5 @@ header {
 
   .article {
     width: 47%;
-    
   }
 }
